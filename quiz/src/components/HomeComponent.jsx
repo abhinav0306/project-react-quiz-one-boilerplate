@@ -1,5 +1,4 @@
 import React from 'react'
-import "./HomeComponent.css"
 export default class HomeComponent extends React.Component {
     constructor() {
         super();
@@ -8,9 +7,9 @@ export default class HomeComponent extends React.Component {
     render() { 
         return ( 
             <>
-            <div className="container">
+            <div className="containerhome">
                 <h2>Quiz App</h2>
-                <button>Play</button>
+                <button className='playbtnstart'>Play</button>
             </div>
             </>
          );

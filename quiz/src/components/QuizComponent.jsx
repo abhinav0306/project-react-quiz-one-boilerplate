@@ -1,5 +1,4 @@
 import React from 'react'
-import "./QuizComponent.css"
 
 export default class QuizComponent extends React.Component {
     constructor() {
@@ -9,7 +8,8 @@ export default class QuizComponent extends React.Component {
     render() { 
         return ( 
             <>
-            <div className="container">
+            <div className="body2">
+            <div className="containerquiz">
                 <h2>Question</h2>
                 <p className='Qnum'>1 of 15</p>
                 <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, optio! </h4>
@@ -24,6 +24,7 @@ export default class QuizComponent extends React.Component {
                     <button id='next'>Next</button>
                     <button id='quit'>Quit</button>
                 </div>
+            </div>
             </div>
             </>
          );
