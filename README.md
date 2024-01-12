@@ -1,4 +1,6 @@
 
+#ALL THE COMPONENTS ARE DISPLAYED ONE BY ONE IN SINGLE PAGE, PLEASE SCROLL TO SEE DIFFERENT COMPONENTS
+
 ![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 # Kalvium PROJECT BUILDER | REACT - QUIZ STAGE I - UI
